@@ -30,4 +30,4 @@ _WE used a mix of Java script and html and the equipment provided at Epicodus to
 
 *This software is licensed under the MIT license*
 
-Copyright (c) 2019 **_Jake Jenson and Duncan Robbins_**
+Copyright (c) 2019 **_Jake Jensen and Duncan Robbins_**
