@@ -2,7 +2,7 @@
 
 #### _this is a working calculator_
 
-#### By _**Jake Jensen Duncan Robbins**_
+#### By _**Jake Jensen Ali Amirhamzeh**_
 
 ## Description
 
